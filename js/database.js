@@ -3,7 +3,7 @@
 const data = [
   {
     id: 1,
-    img: "../img/jaqueta.svg",
+    img: "../img/camisa_waer1.jpg",
     nameItem: "Lightweight Jacket",
     description:
       "Adicione um pouco de energia ao seu guarda-roupa de inverno com esta jaqueta vibrante...",
@@ -13,52 +13,52 @@ const data = [
   },
   {
     id: 2,
-    img: "../img/gorro.svg",
-    nameItem: "Black Hat",
+    img: "../img/camisa_waer2.jpg",
+    nameItem: "Black Cargo",
     description:
-      "O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
+      "A calça Black Cargo chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
     value: 100,
     addCart: "Adicionar ao carrinho",
-    tag: ["Acessórios"],
+    tag: ["Calça"],
   },
   {
     id: 3,
-    img: "../img/mascara.svg",
-    nameItem: "Mask",
+    img: "../img/camisa_waer3.jpg",
+    nameItem: "Corta New Black",
     description:
-      "Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas...",
+      "Esta corta--vento durável é feita de duas camadas de tecido tratado e possui presilhas...",
     value: 40,
     addCart: "Adicionar ao carrinho",
     tag: ["Acessórios"],
   },
   {
     id: 4,
-    img: "../img/camiseta_preta.svg",
-    nameItem: "T-Shirt",
+    img: "../img/calça_waer1.jpg",
+    nameItem: "New Black Cargo",
     description:
-      "Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
+      "Esta calça é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
     value: 100,
     addCart: "Adicionar ao carrinho",
-    tag: ["Camisetas"],
+    tag: ["Calça"],
   },
   {
     id: 5,
-    img: "../img/camiseta_branca.svg",
-    nameItem: "Short-Sleeve T-Shirt",
+    img: "../img/calça_waer2.jpg",
+    nameItem: "Cargo XL",
     description:
-      "Agora você encontrou a camiseta básica do seu guarda-roupa. É feito de um mais grosso...",
+      "Agora você encontrou a calça básica do seu guarda-roupa. É feito de um mais grosso...",
     value: 100,
     addCart: "Adicionar ao carrinho",
-    tag: ["Camisetas"],
+    tag: ["Calça"],
   },
   {
     id: 6,
-    img: "../img/moletom.svg",
-    nameItem: "Champion Packable Jacket",
+    img: "../img/calça_waer3.jpg",
+    nameItem: "Short-Sleeve",
     description:
-      "Proteja-se dos elementos com esta jaqueta embalável Champion. Esta jaqueta de poliést...",
+      "Short-Sleeve é melhor opção no dias de muito calor. Esta short de poliést...",
     value: 100,
     addCart: "Adicionar ao carrinho",
-    tag: ["Camisetas"],
+    tag: ["Calça"],
   },
 ];
